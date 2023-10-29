@@ -1,4 +1,4 @@
- # DATA ANALYTICS TASK
+ # HR Analytics Dashboard
 
 
 Understand and analyze employees data and provide insights to HR department, so that they can decrease the attrition rate of employees.
@@ -16,9 +16,9 @@ https://drive.google.com/file/d/1HTQ-SoFzANrPN2BvuC7XOyfcCvK3dmEa/view?usp=shari
 ## Data Cleaning
 
 
-Irrelevant columns were were deleted
-No null values were found
-No duplicates were found
-Columns were consistent
-Few columns were renamed
-New columns amd measure were created for analysis.
+* Irrelevant columns were were deleted.
+* No null values were found.
+* No duplicates were found.
+* Columns were consistent.
+* Few columns were renamed.
+* New columns amd measure were created for  analysis.
